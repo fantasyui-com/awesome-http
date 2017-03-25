@@ -1,14 +1,13 @@
 # Awesome HTTP
 
 ## Proxies
-- [http-proxy](https://github.com/nodejitsu/node-http-proxy)
-- [rocky](https://github.com/h2non/rocky)
+- [http-proxy](https://github.com/nodejitsu/node-http-proxy) A full-featured http proxy
+- [rocky](https://github.com/h2non/rocky) Full-featured, middleware-oriented HTTP and WebSocket proxy
 
 ## HTTP Frameworks
 - [http](https://nodejs.org/api/http.html) Node.js HTTP interface
 - [express](https://github.com/expressjs/express) Fast, unopinionated, minimalist web framework for node
-  - [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express
-    - [parse-server-example](https://github.com/ParsePlatform/parse-server-example)
+  - [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express [example](https://github.com/ParsePlatform/parse-server-example)
   - [node-toobusy](https://github.com/lloyd/node-toobusy) servers that don't fall over
 - [koa](http://koajs.com) Expressive middleware for node.js using ES2017 async functions 
 - [hapi](https://github.com/hapijs/hapi) Server Framework for Node.js
@@ -23,7 +22,7 @@
 - [ws](https://github.com/websockets/ws)  Simple to use, blazing fast and thoroughly tested WebSocket client and server
 - [socketcluster](https://github.com/socketcluster/socketcluster/) Highly scalable realtime framework
 - [mqtt](https://github.com/mqttjs/MQTT.js) The MQTT client for Node.js and the browser [M2M/Internet of Things](http://mqtt.org/)
-- [webtorrent](https://github.com/feross/webtorrent)
+- [webtorrent](https://github.com/feross/webtorrent) Streaming torrent client for the web
 
 ## Data
 - [gun](http://gun.js.org) A realtime, decentralized, offline-first, graph database engine
